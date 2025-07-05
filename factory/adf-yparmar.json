@@ -1,0 +1,9 @@
+{
+	"name": "adf-yparmar",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0c2011b7-7981-4080-a174-57d95038efa6",
+		"tenantId": "f4bd218c-025c-4bf1-aaaf-21af6ac0be49"
+	}
+}
